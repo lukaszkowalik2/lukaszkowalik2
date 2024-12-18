@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Łukasz Kowalik 👋
 
-<!--
-**lukaszkowalik2/lukaszkowalik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 I’m a Front-End Engineer passionate about building intuitive and dynamic user experiences.  
+- 🎓 I’m currently studying Applied Computer Science at Jagiellonian University.  
+- 🌱 Self-taught and always curious, I’m diving into backend development to expand my full-stack skills.  
+- 🛠️ My key skills include **React**, **TypeScript**, and creating scalable, maintainable web applications.  
+- 👯 I’m looking to collaborate on innovative projects that merge design and functionality.  
+- ⚡ Fun fact: I love exploring new technologies and applying them to creative projects in my free time.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![Lukasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszkowalik2&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszkowalik2&layout=compact&theme=radical)  
+
+Feel free to connect or drop a message – let’s create something amazing together! 🚀
