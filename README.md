@@ -15,6 +15,6 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszkowalik2&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszkowalik2&layout=compact&theme=radical&hide=cmake)  
 
 Feel free to connect or drop a message – let’s create something amazing together! 🚀
