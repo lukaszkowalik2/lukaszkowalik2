@@ -11,10 +11,10 @@
 
 ## GitHub Stats
 
-![Lukasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszkowalik2&show_icons=true&theme=radical)
+![Lukasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaszkowalik2&show_icons=true&theme=dracula)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszkowalik2&layout=compact&theme=radical&hide=cmake)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszkowalik2&layout=compact&theme=dracula&hide=cmake&show_icons=true)  
 
 Feel free to connect or drop a message – let’s create something amazing together! 🚀
